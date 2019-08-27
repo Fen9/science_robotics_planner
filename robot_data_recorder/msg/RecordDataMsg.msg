@@ -1,0 +1,2 @@
+baxter_core_msgs/EndpointState state
+float64 gap

@@ -1,0 +1,5 @@
+float64[] new_frame_prob
+bool termination
+---
+string action_seq
+bool success

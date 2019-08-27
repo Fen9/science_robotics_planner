@@ -1,0 +1,3 @@
+geometry_msgs/Pose[] waypoints
+---
+int32 status
