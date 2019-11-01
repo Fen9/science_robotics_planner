@@ -1,0 +1,12 @@
+[submodule "baxter"]
+	path = baxter
+	url = https://github.com/RethinkRobotics/baxter.git
+[submodule "baxter_interface"]
+	path = baxter_interface
+	url = https://github.com/RethinkRobotics/baxter_interface.git
+[submodule "baxter_tools"]
+	path = baxter_tools
+	url = https://github.com/RethinkRobotics/baxter_tools.git
+[submodule "baxter_common"]
+	path = baxter_common
+	url = https://github.com/RethinkRobotics/baxter_common.git
